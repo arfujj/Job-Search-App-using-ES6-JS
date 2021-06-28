@@ -1,6 +1,7 @@
 # Job-Search-App-using-ES6-JavaScript
 
-Technologies used and Implementation.
+Technologies used and Implementation:
+
 👉 HTML, CSS & JavaScript
 👉 What is API? How can we use them?
 👉 Using APIs to build a Saas Product.
