@@ -3,9 +3,13 @@
 Technologies used and Implementation:
 
 👉 HTML, CSS & JavaScript
+
 👉 What is API? How can we use them?
+
 👉 Using APIs to build a Saas Product.
+
 👉 Hosting Project on Firebase
+
 and more...
 
 
