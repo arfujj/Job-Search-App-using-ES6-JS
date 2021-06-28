@@ -14,6 +14,5 @@ and more...
 
 
 
-pics:
 ![Screenshot 2021-06-28 120835](https://user-images.githubusercontent.com/83070569/123591540-bd781180-d809-11eb-9289-805c765fb9a3.png)
 
